@@ -1,0 +1,19 @@
+{
+	"locale" : "en_US",
+	"entries" : {
+		"messages.Application.Error.1" : {
+			"value" : "Something went wrong...",
+			"public" : true
+		},
+		"messages.Application.Error.404" : {
+			"value" : "Not Found"
+		},
+		
+		"messages.Authentication.Error.1" : {
+			"value" : "Invalid username/password"
+		},
+		"messages.Authentication.Error.2" : {
+			"value" : "Invalid token"
+		}
+	}
+}

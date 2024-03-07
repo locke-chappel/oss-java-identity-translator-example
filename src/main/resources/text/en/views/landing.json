@@ -1,0 +1,8 @@
+{
+	"locale" : "en_US",
+	"entries" : {
+		"landing.message" : {
+			"value" : "Some info about how to integrate the API this service provides."
+		}
+	}
+}

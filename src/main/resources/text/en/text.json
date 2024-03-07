@@ -1,0 +1,11 @@
+{
+	"locale" : "en_US",
+	"entries" : {
+		"application.name" : {
+			"value" : "Identity Translator Example"
+		},
+		"application.title" : {
+			"value" : "#application.name#"
+		}
+	}
+}
