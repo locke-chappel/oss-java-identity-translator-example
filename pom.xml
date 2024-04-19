@@ -6,12 +6,12 @@
     <parent>
         <groupId>io.github.locke-chappel.oss.app</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.10</version>
+        <version>1.0.12</version>
     </parent>
 
     <groupId>io.github.lc.oss.identity</groupId>
     <artifactId>translator-example</artifactId>
-    <version>1.0.0.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>translator-example</name>
